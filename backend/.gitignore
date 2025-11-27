@@ -1,0 +1,9 @@
+logs/
+.env
+client_secret_786379398626-t65jcoj5ggcql9uv1vt4aaest90g4kti.apps.googleusercontent.com.json
+package-lock.json
+node_modules/
+SETUP.md
+.DS_Store
+TESTING.md
+extensions.json
