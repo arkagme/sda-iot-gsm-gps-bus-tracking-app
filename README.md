@@ -2,18 +2,6 @@
 
 A comprehensive real-time bus tracking platform for SASTRA University's SDA (Student Development Activity) with live GPS tracking, route management, and support services.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Documentation](#documentation)
-- [Development](#development)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-
 ## 📖 Overview
 
 This is a full-stack bus tracking application designed specifically for SASTRA University. It provides students, staff, and administrators with real-time bus tracking, route information, notifications, and a comprehensive support system. The application uses modern web technologies and WebSocket for real-time communication.
